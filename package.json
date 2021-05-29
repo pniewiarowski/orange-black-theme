@@ -1,0 +1,21 @@
+{
+    "name": "ob-theme",
+    "displayName": "Orange&Black",
+    "description": "Just a simple theme...",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ob-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ob-theme-color-theme.json"
+            }
+        ]
+    }
+}
