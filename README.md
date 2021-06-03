@@ -1,7 +1,9 @@
-![Logo](https://github.com/PNiewiarowski/ob-theme/blob/main/images/theme.jpg)
+![Logo](/images/theme.jpg)
 
-## Theme preview
-![Full theme](https://github.com/PNiewiarowski/ob-theme/blob/main/images/theme-ui.jpg)
+Install theme: https://marketplace.visualstudio.com/items?itemName=PNiewiarowski.ob-theme
 
-## Minimalistic setup theme preview
-![Minimalistic setup theme](https://github.com/PNiewiarowski/ob-theme/blob/main/images/theme-custom.jpg>
+## Orange&Black Theme
+![Full theme](/images/theme-ui.jpg)
+
+## Orange&Black Theme - minimalistic UI
+![Minimalistic setup theme](/images/theme-custom.jpg)
