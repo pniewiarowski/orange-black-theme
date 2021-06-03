@@ -14,7 +14,7 @@
             {
                 "label": "ob-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ob-theme-color-theme.json"
+                "path": "./themes/ob-theme.json"
             }
         ]
     }
