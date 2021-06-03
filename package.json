@@ -1,8 +1,22 @@
 {
     "name": "ob-theme",
     "displayName": "Orange&Black",
-    "description": "Just a simple theme...",
-    "version": "0.0.1",
+    "description": "Orange&Black VSCode theme...",
+    "version": "1.0.1",
+    "icon": "./images/icon.png",
+    "publisher": "PNiewiarowski",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PNiewiarowski/ob-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Orange&Black",
+        "Orange and Black",
+        "O&B",
+        "OrangeBlack"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
