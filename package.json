@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "ob-theme",
+                "label": "Orange&Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ob-theme.json"
             }
