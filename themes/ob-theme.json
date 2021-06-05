@@ -222,6 +222,7 @@
       "scope": [
         "support.function",
         "entity.name.function",
+        "variable.other.property"
       ]
         ,
       "settings": {
