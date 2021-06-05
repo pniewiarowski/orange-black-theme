@@ -1,11 +1,11 @@
-![Logo](images/theme.jpg)
+![Logo](images/logo.jpg)
 
 Install: https://marketplace.visualstudio.com/items?itemName=PNiewiarowski.ob-theme
 
 Rate: https://marketplace.visualstudio.com/items?itemName=PNiewiarowski.ob-theme
 
 ## Orange&Black Theme
-![Full theme](images/theme-ui.jpg)
+![Dark theme](images/theme-dark.png)
 
-## Orange&Black Theme - minimalistic UI
-![Minimalistic setup theme](images/theme-custom.jpg)
+## Orange&White Theme
+![Light theme](images/theme-light.png)
