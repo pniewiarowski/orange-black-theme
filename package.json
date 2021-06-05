@@ -15,7 +15,8 @@
         "Orange&Black",
         "Orange and Black",
         "O&B",
-        "OrangeBlack"
+        "OrangeBlack",
+        "PNiewiarowski"
     ],
     "engines": {
         "vscode": "^1.56.0"
