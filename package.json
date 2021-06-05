@@ -12,10 +12,15 @@
     "keywords": [
         "theme",
         "dark theme",
+        "light theme",
         "Orange&Black",
+        "Orange&White",
         "Orange and Black",
+        "Orange and White",
         "O&B",
+        "O&W",
         "OrangeBlack",
+        "Orange&White",
         "PNiewiarowski"
     ],
     "engines": {
@@ -30,6 +35,11 @@
                 "label": "Orange&Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ob-theme.json"
+            },
+            {
+                "label": "Orange&White",
+                "uiTheme": "vs",
+                "path": "./themes/ow-theme.json"
             }
         ]
     }
