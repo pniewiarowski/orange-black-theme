@@ -190,7 +190,8 @@
       "scope": [
         "keyword",
         "support.type",
-        "storage.type"
+        "storage.type",
+        "variable.language.this"
       ],
       "settings": {
         "foreground": "#e67e22",
@@ -210,7 +211,9 @@
       "scope": [
         "constant.other.placeholder",
         "entity.name.import",
-        "variable.other.readwrite"
+        "meta.template.expression",
+        "variable.other",
+        "variable.other"
       ],
       "settings": {
         "foreground": "#eeeeee",
@@ -231,7 +234,7 @@
     {
       "scope": [
         "storage.modifier",
-        "entity.other.attribute-name"
+        "entity.other.attribute-name",
       ],
       "settings": {
         "foreground": "#c0392b",
