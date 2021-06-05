@@ -203,7 +203,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#e74c3c",
+        "foreground": "#ccfd44",
         "fontStyle": ""
       }
     },
@@ -237,7 +237,7 @@
         "entity.other.attribute-name",
       ],
       "settings": {
-        "foreground": "#c0392b",
+        "foreground": "#fd5500",
         "fontStyle": ""
       }
     },
