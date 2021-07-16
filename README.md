@@ -2,8 +2,6 @@
 
 Install: https://marketplace.visualstudio.com/items?itemName=PNiewiarowski.ob-theme
 
-Rate: https://marketplace.visualstudio.com/items?itemName=PNiewiarowski.ob-theme
-
 ## Orange&Black Theme
 ![Dark theme](images/theme-dark.png)
 
