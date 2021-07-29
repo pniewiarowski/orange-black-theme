@@ -209,22 +209,11 @@
       }
     },
     {
-      "name": "#fd33000",
-      "scope": [
-        "storage.modifier",
-        "entity.other.attribute-name",
-      ],
-      "settings": {
-        "foreground": "#fd3300",
-        "fontStyle": ""
-      }
-    },
-    {
       "name": "#f1c40f",
       "scope": [
         "support.function",
         "entity.name.function",
-        "variable.other.property"
+        "variable.other.property",
       ]
         ,
       "settings": {
@@ -252,5 +241,18 @@
         "fontStyle": ""
       }
     },
+    {
+      "name": "#7777f3",
+      "scope": [
+        "entity.name.import.go",
+        "variable",
+        "storage.modifier",
+        "entity.other.attribute-name",
+      ],
+      "settings": {
+        "foreground": "#7777f3",
+        "fontStyle": "",
+      }
+    }
   ]
 }
