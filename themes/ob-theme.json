@@ -242,7 +242,7 @@
       }
     },
     {
-      "name": "#7777f3",
+      "name": "#dc89aa",
       "scope": [
         "entity.name.import.go",
         "variable",
@@ -250,8 +250,7 @@
         "entity.other.attribute-name",
       ],
       "settings": {
-        "foreground": "#7777f3",
-        "fontStyle": "",
+        "foreground": "#ffbee6",
       }
     }
   ]
