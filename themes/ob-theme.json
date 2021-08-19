@@ -3,7 +3,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "foreground": "#eeeeee",
+    "foreground": "#f8dcba",
     "focusBorder": "#e67e22",
     "descriptionForeground": "#eeeeee",
     "icon.foreground": "#eeeeee",
@@ -42,18 +42,18 @@
     "editorGroupHeader.border": "#000000",
     "editorGroupHeader.tabsBackground": "#151515",
     "editorGroupHeader.tabsBorder": "#000000",
-    "editorError.foreground": "#ff2237",
+    "editorError.foreground": "#cc2237",
     "editorError.border": "#00000000",
     "editorHint.border": "#00000000",
     "editorWidget.background": "#151515",
-    "gitDecoration.untrackedResourceForeground": "#ffff37",
+    "gitDecoration.untrackedResourceForeground": "#cccc37",
     "gitDecoration.ignoredResourceForeground": "#eeeeee",
-    "gitDecoration.modifiedResourceForeground": "#ffff37",
-    "gitDecoration.conflictingResourceForeground": "#ff2237",
-    "gitDecoration.deletedResourceForeground": "#ff2237",
-    "gitDecoration.addedResourceForeground": "#22ff37",
-    "gitDecoration.renamedResourceForeground": "#ffff37",
-    "gitDecoration.stageDeletedResourceForeground": "#ff2237",
+    "gitDecoration.modifiedResourceForeground": "#cccc37",
+    "gitDecoration.conflictingResourceForeground": "#cc2237",
+    "gitDecoration.deletedResourceForeground": "#cc2237",
+    "gitDecoration.addedResourceForeground": "#22cc37",
+    "gitDecoration.renamedResourceForeground": "#cccc37",
+    "gitDecoration.stageDeletedResourceForeground": "#cc2237",
     "titleBar.activeBackground": "#151515",
     "titleBar.activeForeground": "#eeeeee",
     "titleBar.inactiveBackground": "#151515",
@@ -96,12 +96,12 @@
     "debugIcon.stepOutForeground": "#eeeeee",
     "debugIcon.stepBackForeground": "#eeeeee",
     "debugIcon.stepIntoForeground": "#eeeeee",
-    "debugIcon.pauseForeground": "#2237ff",
+    "debugIcon.pauseForeground": "#2237cc",
     "debugIcon.startForeground": "#eeeeee",
-    "debugIcon.breakpointForeground": "#ff2237",
-    "debugIcon.breakpointCurrentStackframeForeground": "#2237ff",
-    "debugIcon.restartForeground": "#22ff37",
-    "debugIcon.stopForeground": "#ff2237",
+    "debugIcon.breakpointForeground": "#cc2237",
+    "debugIcon.breakpointCurrentStackframeForeground": "#2237cc",
+    "debugIcon.restartForeground": "#22cc37",
+    "debugIcon.stopForeground": "#cc2237",
     "minimap.background": "#222222",
     "minimapSlider.background": "#000000aa",
     "minimapSlider.activeBackground": "#11111155",
@@ -183,14 +183,14 @@
       }
     },
     {
-      "name": "#eeeeee",
+      "name": "#f8dcba",
       "scope": [
         "constant.other.placeholder",
         "entity.name.import",
         "meta.template.expression",
       ],
       "settings": {
-        "foreground": "#eeeeee",
+        "foreground": "#f8dcba",
         "fontStyle": ""
       }
     },
@@ -242,7 +242,7 @@
       }
     },
     {
-      "name": "#ffbee6",
+      "name": "#ffbd6c",
       "scope": [
         "entity.name.import.go",
         "variable",
@@ -250,7 +250,7 @@
         "entity.other.attribute-name",
       ],
       "settings": {
-        "foreground": "#ffbee6",
+        "foreground": "#ffbd6c",
       }
     }
   ]
