@@ -2,7 +2,7 @@
     "name": "ob-theme",
     "displayName": "Orange&Black",
     "description": "Orange&Black and Orange&White Visual Studio theme. Light and dark theme with orange accents.",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "icon": "images/icon.png",
     "publisher": "PNiewiarowski",
     "repository": {
