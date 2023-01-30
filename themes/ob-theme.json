@@ -5,12 +5,12 @@
   "colors": {
     "foreground": "#f8dcba",
     "focusBorder": "#e67e22",
-    "descriptionForeground": "#eeeeee",
-    "icon.foreground": "#eeeeee",
+    "descriptionForeground": "#ffeeee",
+    "icon.foreground": "#ffeeee",
     "window.activeBorder": "#000000",
     "window.inactiveBorder": "#000000",
     "activityBar.foreground": "#e67e22",
-    "activityBar.inactiveForeground": "#eeeeee",
+    "activityBar.inactiveForeground": "#ffeeee",
     "activityBar.background": "#151515",
     "activityBar.activeBackground": "#15151500",
     "activityBar.border": "#000000",
@@ -18,20 +18,20 @@
     "activityBar.activeFocusBorder": "#00000000",
     "activityBar.dropBorder": "#e67e22",
     "activityBarBadge.background": "#e67e22",
-    "activityBarBadge.foreground": "#eeeeee",
+    "activityBarBadge.foreground": "#ffeeee",
     "breadcrumb.background": "#151515",
     "breadcrumb.activeSelectionForeground": "#e67e22",
     "breadcrumb.focusForeground": "#e67e22",
-    "breadcrumb.foreground": "#eeeeee",
+    "breadcrumb.foreground": "#ffeeee",
     "breadcrumbPicker.background": "#151515",
     "button.background": "#00000000",
     "button.border": "#e67e22",
     "button.foreground": "#e67e22",
     "button.hoverBackground": "#00000000",
     "button.secondaryBackground": "#e67e22",
-    "button.secondaryForeground": "#eeeeee",
+    "button.secondaryForeground": "#ffeeee",
     "button.secondaryHoverBackground": "#e67e22aa",
-    "editor.foreground": "#eeeeee",
+    "editor.foreground": "#ffeeee",
     "editor.background": "#222222",
     "editor.lineHighlightBorder": "#00000000",
     "editor.lineHighlightBackground": "#111111",
@@ -47,7 +47,7 @@
     "editorHint.border": "#00000000",
     "editorWidget.background": "#151515",
     "gitDecoration.untrackedResourceForeground": "#cccc37",
-    "gitDecoration.ignoredResourceForeground": "#eeeeee",
+    "gitDecoration.ignoredResourceForeground": "#ffeeee",
     "gitDecoration.modifiedResourceForeground": "#cccc37",
     "gitDecoration.conflictingResourceForeground": "#cc2237",
     "gitDecoration.deletedResourceForeground": "#cc2237",
@@ -55,9 +55,9 @@
     "gitDecoration.renamedResourceForeground": "#cccc37",
     "gitDecoration.stageDeletedResourceForeground": "#cc2237",
     "titleBar.activeBackground": "#151515",
-    "titleBar.activeForeground": "#eeeeee",
+    "titleBar.activeForeground": "#ffeeee",
     "titleBar.inactiveBackground": "#151515",
-    "titleBar.inactiveForeground": "#eeeeee",
+    "titleBar.inactiveForeground": "#ffeeee",
     "titleBar.border": "#000000",
     "textLink.activeForeground": "#e67e22aa",
     "textLink.foreground": "#e67e22",
@@ -71,33 +71,34 @@
     "panelSectionHeader.border": "#000000",
     "tab.activeBackground": "#151515",
     "tab.activeBorder": "#e67e22",
-    "tab.activeForeground": "#eeeeee",
+    "tab.activeForeground": "#ffeeee",
     "tab.border": "#151515",
     "tab.inactiveBackground": "#151515",
-    "tab.inactiveForeground": "#eeeeee",
+    "tab.inactiveForeground": "#ffeeee",
     "tab.hoverBackground": "#151515",
+    "tab.activeBorderTop": "#e67e22",
     "tab.hoverForeground": "#e67e22",
     "tab.hoverBorder": "#e67e22",
     "menu.border": "#000000",
     "menu.background": "#151515",
-    "menu.foreground": "#eeeeee",
+    "menu.foreground": "#ffeeee",
     "menu.selectionBackground": "#e67e22",
     "menu.selectionBorder": "#e67e22",
-    "menu.selectionForeground": "#eeeeee",
+    "menu.selectionForeground": "#ffeeee",
     "menu.separatorBackground": "#000000",
     "menubar.selectionBackground": "#151515",
     "menubar.selectionBorder": "#00000000",
     "menubar.selectionForeground": "#e67e22",
     "input.background": "#222222",
     "input.border": "#000000",
-    "input.foreground": "#eeeeee",
+    "input.foreground": "#ffeeee",
     "input.placeholderForeground": "#777777",
-    "debugIcon.stepOverForeground": "#eeeeee",
-    "debugIcon.stepOutForeground": "#eeeeee",
-    "debugIcon.stepBackForeground": "#eeeeee",
-    "debugIcon.stepIntoForeground": "#eeeeee",
+    "debugIcon.stepOverForeground": "#ffeeee",
+    "debugIcon.stepOutForeground": "#ffeeee",
+    "debugIcon.stepBackForeground": "#ffeeee",
+    "debugIcon.stepIntoForeground": "#ffeeee",
     "debugIcon.pauseForeground": "#2237cc",
-    "debugIcon.startForeground": "#eeeeee",
+    "debugIcon.startForeground": "#ffeeee",
     "debugIcon.breakpointForeground": "#cc2237",
     "debugIcon.breakpointCurrentStackframeForeground": "#2237cc",
     "debugIcon.restartForeground": "#22cc37",
@@ -108,7 +109,7 @@
     "minimapSlider.hoverBackground": "#00000055",
     "terminal.border": "#000000",
     "terminal.background": "#151515",
-    "terminal.foreground": "#eeeeee",
+    "terminal.foreground": "#ffeeee",
     "terminalCursor.foreground": "#e67e22",
     "list.activeSelectionBackground": "#151515",
     "list.activeSelectionForeground": "#e67e22",
@@ -119,22 +120,22 @@
     "list.hoverBackground": "#151515",
     "list.hoverForeground": "#e67e22",
     "list.inactiveSelectionBackground": "#151515",
-    "list.inactiveSelectionForeground": "#eeeeee",
+    "list.inactiveSelectionForeground": "#ffeeee",
     "list.inactiveFocusBackground": "#151515",
     "list.errorForeground": "#ff2237",
     "list.warningForeground": "#2237ff",
     "sideBar.background": "#151515",
-    "sideBar.foreground": "#eeeeee",
+    "sideBar.foreground": "#ffeeee",
     "sideBar.border": "#000000",
     "sideBarTitle.foreground": "#e67e22",
-    "sideBarSectionHeader.foreground": "#eeeeee",
+    "sideBarSectionHeader.foreground": "#ffeeee",
     "sideBarSectionHeader.background": "#151515",
     "sideBarSectionHeader.border": "#000000",
     "scrollbar.shadow": "#00000000",
     "scrollbarSlider.background": "#151515",
     "scrollbarSlider.hoverBackground": "#111111",
     "scrollbarSlider.activeBackground": "#050505",
-    "statusBar.foreground": "#eeeeee",
+    "statusBar.foreground": "#ffeeee",
     "statusBar.background": "#e67e22",
     "statusBar.border": "#000000",
     "statusBar.debuggingBorder": "#000000",
@@ -146,19 +147,19 @@
     "settings.checkboxForeground": "#e67e22",
     "settings.numberInputBorder": "#000000",
     "settings.numberInputBackground": "#151515",
-    "settings.numberInputForeground": "#eeeeee",
+    "settings.numberInputForeground": "#ffeeee",
     "settings.dropdownBorder": "#000000",
     "settings.dropdownBackground": "#151515",
-    "settings.dropdownForeground": "#eeeeee",
+    "settings.dropdownForeground": "#ffeeee",
     "settings.dropdownListBorder": "#000000",
     "settings.textInputBackground": "#151515",
     "settings.textInputBorder": "#000000",
-    "settings.textInputForeground": "#eeeeee",
+    "settings.textInputForeground": "#ffeeee",
     "settings.focusedRowBackground": "#151515",
     "notifications.background": "#151515",
     "notificationsWarningIcon.foreground": "#e67e22",
-    "notificationsInfoIcon.foreground": "#eeeeee",
-    "notifications.foreground": "#eeeeee",
+    "notificationsInfoIcon.foreground": "#ffeeee",
+    "notifications.foreground": "#ffeeee",
     "notifications.border": "#000000",
     "notificationCenter.border": "#000000",
     "notificationCenterHeader.background": "#151515",
@@ -166,10 +167,6 @@
     "notificationsErrorIcon.foreground": "#ff2237",
     "notificationLink.foreground": "#5555ff",
     "notificationToast.border": "#000000",
-    "welcomePage.tileShadow.": "#00000000",
-    "welcomePage.background": "#222222",
-    "welcomePage.buttonBackground": "#151515",
-    "welcomePage.buttonHoverBackground": "#1f1f1f",
   },
   "tokenColors": [
     {
@@ -179,7 +176,7 @@
       ],
       "settings": {
         "foreground": "#777777",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -191,7 +188,7 @@
       ],
       "settings": {
         "foreground": "#f8dcba",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -205,7 +202,7 @@
       ],
       "settings": {
         "foreground": "#e67e22",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -218,7 +215,7 @@
         ,
       "settings": {
         "foreground": "#f1c40f",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -228,7 +225,7 @@
       ],
       "settings": {
         "foreground": "#ccfd44",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -238,7 +235,7 @@
       ],
       "settings": {
         "foreground": "#f377f3",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -251,6 +248,7 @@
       ],
       "settings": {
         "foreground": "#ffbd6c",
+        "fontStyle": "bold"
       }
     }
   ]

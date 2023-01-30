@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "Cascadia Code, 'Courier New', monospace",
+    "editor.fontWeight": "900",
+    "editor.fontSize": 16,
+    "editor.padding.top": 30,
+    "editor.cursorWidth": 3,
+    "editor.cursorBlinking": "expand",
+    "editor.lineHeight": 2,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "workbench.colorTheme": "Orange&White",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.productIconTheme": "fluent-icons",
+    "window.zoomLevel": -1.33
+}
